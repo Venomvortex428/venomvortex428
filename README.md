@@ -1,4 +1,5 @@
-<img width="1393" height="1175" alt="2026_08_20_0y4_Kleki" src="https://github.com/user-attachments/assets/e5ef1369-86b3-4d01-b2f3-0137aab92974" />
+<img width="2048" height="945" alt="WhatsApp Image 2026-08-21 at 10 08 35 PM" src="https://github.com/user-attachments/assets/f245e64f-67ad-4fc4-971e-e8e916ec7ce6" />
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=venomvortex&color=blue)
