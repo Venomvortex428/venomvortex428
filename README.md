@@ -18,7 +18,7 @@
 
 
 
-
+<img src="https://img.shields.io/github/followers/Venomvortex428?style=flat-square&color=8A2BE2&label=followers">
 
 
 
