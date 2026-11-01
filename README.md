@@ -4,7 +4,7 @@
 <img width="1712" height="88" alt="minecraft-text" src="https://github.com/user-attachments/assets/328a297c-2eff-4647-9b6c-26f0a68f1c69" />
 
 
-<img width="2048" height="945" alt="WhatsApp Image 2026-08-21 at 10 08 35 PM" src="https://github.com/user-attachments/assets/aecdb173-04e1-48ea-9ca0-a50027e8e305" />
+<img width="700" height="300" alt="WhatsApp Image 2026-08-21 at 10 08 35 PM" src="https://github.com/user-attachments/assets/aecdb173-04e1-48ea-9ca0-a50027e8e305" />
 
 
 
