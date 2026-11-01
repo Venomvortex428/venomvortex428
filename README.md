@@ -1,4 +1,9 @@
-<img width="1256" height="422" alt="pixel-art (4)" src="https://github.com/user-attachments/assets/1429517b-66e9-48a4-961f-613cb7e8bd45" />
+<img width="800" height="269" alt="pixel-art (1)" src="https://github.com/user-attachments/assets/f7c3abec-da72-4469-89bf-0bd4ff84c557" />
+
+
+
+
+
 
 
 
