@@ -3,8 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2000&pause=2000&color=7C13B1&width=435&lines=we+wont+forget++each+other%2C+right%3F;if+i+disappear+will+you+look+for+me%3F;Progress+is+better+than+perfection.;small+steps+still+move+you+forward." alt="Typing SVG" /></a>
 <img width="1712" height="88" alt="minecraft-text" src="https://github.com/user-attachments/assets/328a297c-2eff-4647-9b6c-26f0a68f1c69" />
 
+<img width="800" height="400" alt="kreska_art_20261105_171247_v1 4 33" src="https://github.com/user-attachments/assets/da5d549f-022a-4f4d-b27b-8dcd3c9b51f8" />
+my diff artstyles idk
 
-<img width="700" height="300" alt="WhatsApp Image 2026-08-21 at 10 08 35 PM" src="https://github.com/user-attachments/assets/aecdb173-04e1-48ea-9ca0-a50027e8e305" />
+
+
 
 
 
