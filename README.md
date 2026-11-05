@@ -4,7 +4,7 @@
 <img width="1712" height="88" alt="minecraft-text" src="https://github.com/user-attachments/assets/328a297c-2eff-4647-9b6c-26f0a68f1c69" />
 
 <img width="800" height="400" alt="kreska_art_20261105_171247_v1 4 33" src="https://github.com/user-attachments/assets/da5d549f-022a-4f4d-b27b-8dcd3c9b51f8" />
-my diff artstyles idk
+
 
 
 
